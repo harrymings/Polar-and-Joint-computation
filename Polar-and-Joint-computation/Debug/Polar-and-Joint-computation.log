@@ -1,0 +1,17 @@
+﻿  Source.cpp
+C:\Users\opgas\source\repos\Polar-and-Joint-computation\Polar-and-Joint-computation\Source.cpp(39,7): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\opgas\source\repos\Polar-and-Joint-computation\Polar-and-Joint-computation\Source.cpp(46,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\opgas\source\repos\Polar-and-Joint-computation\Polar-and-Joint-computation\Source.cpp(51,7): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\opgas\source\repos\Polar-and-Joint-computation\Polar-and-Joint-computation\Source.cpp(53,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\opgas\source\repos\Polar-and-Joint-computation\Polar-and-Joint-computation\Source.cpp(73,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\opgas\source\repos\Polar-and-Joint-computation\Polar-and-Joint-computation\Source.cpp(77,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\opgas\source\repos\Polar-and-Joint-computation\Polar-and-Joint-computation\Source.cpp(86,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\opgas\source\repos\Polar-and-Joint-computation\Polar-and-Joint-computation\Source.cpp(103,7): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\opgas\source\repos\Polar-and-Joint-computation\Polar-and-Joint-computation\Source.cpp(111,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\opgas\source\repos\Polar-and-Joint-computation\Polar-and-Joint-computation\Source.cpp(135,7): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\opgas\source\repos\Polar-and-Joint-computation\Polar-and-Joint-computation\Source.cpp(138,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\opgas\source\repos\Polar-and-Joint-computation\Polar-and-Joint-computation\Source.cpp(144,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\opgas\source\repos\Polar-and-Joint-computation\Polar-and-Joint-computation\Source.cpp(151,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\opgas\source\repos\Polar-and-Joint-computation\Polar-and-Joint-computation\Source.cpp(11,9): warning C4101: 'r1': unreferenced local variable
+C:\Users\opgas\source\repos\Polar-and-Joint-computation\Polar-and-Joint-computation\Source.cpp(102,10): warning C4101: 'f': unreferenced local variable
+  Polar-and-Joint-computation.vcxproj -> C:\Users\opgas\source\repos\Polar-and-Joint-computation\Debug\Polar-and-Joint-computation.exe
